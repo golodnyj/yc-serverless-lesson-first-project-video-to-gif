@@ -1,0 +1,13 @@
+.DS_Store
+.idea
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+*.zip
+/steps/img/
+/steps/5-create-function/ffmpeg-4.4-amd64-static/
+/steps/5-create-function/ffmpeg
+/steps/5-create-function/ffmpeg-release-amd64-static.tar.xz
+/steps/3-create-ydb/ffmpeg-account-for-cf.sa
+/steps/3-create-ydb/forsa.md
